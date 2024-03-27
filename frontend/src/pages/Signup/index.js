@@ -125,11 +125,11 @@ const SignUp = () => {
     <div className="geral-signup">
       <div className={"container-signup"}>
         <div className={"paper"}>
-          <img alt={"Logo"} src={"https://i.postimg.cc/0jZbBr7v/logo2.png"} className="img-logo-signup"></img>
+          <img alt={"Logo"} src={"https://packtypebot.com.br/wp-content/uploads/2024/03/logo2.png"} className="img-logo-signup"></img>
           <h4 className="h4">⚡ Cadastre-se</h4>
           <div>
             <span className="span">
-              👋🏻 Comece seu <b>teste GRATUITO</b> de 3 dias do Whaticket CRM em
+              👋🏻 Comece seu <b>teste GRATUITO</b> de 3 dias do Whaticket SaaS em
               apenas 3 etapas!{" "}
               <b>Não se preocupe, nós não pedimos dados do seu cartão.</b> 💳
             </span>
