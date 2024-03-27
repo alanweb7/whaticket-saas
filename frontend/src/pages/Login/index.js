@@ -107,7 +107,7 @@ const Login = () => {
       <CssBaseline />
       <div className={"container-login"}>
       <div className={"container-img"}>
-        <img alt={"Logo"} src={"https://i.postimg.cc/Kz3p0220/logo.png"} className="img-login"></img>
+        <img alt={"Logo"} src={"https://packtypebot.com.br/wp-content/uploads/2024/03/logo.png"} className="img-login"></img>
       </div>
         <div className="container-footer">
           <p>
